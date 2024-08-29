@@ -9,4 +9,3 @@ Esc/Cmd+Q/Alt-F4 - Quit
 
 Have fun
 
-Credits- Caiden Hyde, Joseph Park, James Johnson
