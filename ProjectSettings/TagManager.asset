@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Laser
+  - Enemy
+  - EnemyLaser
+  - Topwall
+  - Bottomwall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Laser
+  - Enemy
+  - EnemyLaser
+  - Swarm_Group
+  - Border
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Laser
+    uniqueID: 2844113405
+    locked: 0
+  - name: EnemyLaser
+    uniqueID: 3573189899
+    locked: 0
+  - name: Player
+    uniqueID: 831468325
+    locked: 0
+  - name: Enemy
+    uniqueID: 864889161
+    locked: 0
